@@ -60,7 +60,7 @@ Requisito: **JDK 8 ou superior**.
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/SEU-USUARIO/formas-geometricas.git
+git clone https://github.com/GabrieLTevez/formas-geometricas.git
 cd formas-geometricas
 
 # 2. Compilar
