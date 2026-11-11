@@ -79,4 +79,4 @@ java -cp bin a1.Main
 
 ## Autor
 
-Seu Nome — [GitHub](https://github.com/SEU-USUARIO)
+João Gabriel — [GitHub](https://github.com/SEU-USUARIO)
